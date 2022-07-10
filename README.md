@@ -1,4 +1,4 @@
-Yo 👋 My name is Ryan Conte
+#1 StackOverflow Developer -Ryan Conte
 ===========================
 
 Software Engineer
