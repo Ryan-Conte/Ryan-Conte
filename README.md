@@ -1,5 +1,5 @@
-![image](https://github.com/Ryan-Conte/Ryan-Conte/assets/35830569/fc32b9b8-f49f-499f-a328-7927385644c6)yo
+yo
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 50dvi; top: 50dvb; width: 80dvmin; background-position: 0 0; height: 80dvmin; translate: -50% -50%; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; animation: 3.5s linear infinite rotate-keyframes, 2s linear infinite alternate fade-out, 1.5s ease-in-out alternate infinite shrink-x; background-image: url('https://avatars.githubusercontent.com/u/35830569?v=4');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 50dvi; top: 50dvb; width: 80dvmin; background-position: 0 0; height: 80dvmin; translate: -50% -50%; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; animation: 3.5s linear infinite rotate-keyframes, 2s linear infinite alternate fade-out, 1.5s ease-in-out alternate infinite shrink-x; background-image: url('https://media.tenor.com/_1hMqyFC4LEAAAAM/pop-cat.gif');]{x0000}$}
 ```
